@@ -1,6 +1,4 @@
-# Gamebox2019
-
-GROUP: Lucile Gerthoffer, Alexis Morton and Audrey Seignol (EPITA 2021)
+# Gamebox
 
 The Gamebox is a simple app that contains two little games, and allow the player to play those games, and store their score online.
 The main screen contains the list of different games with a name and a picture. If we can play to the game, a little icon is present. You can click on the game to see its details. 
