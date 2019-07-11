@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gamebox</string>
+    <string name="credits">by Audrey Seignol</string>
+
+    <string name="game_info">Game Info</string>
+    <string name="name">Name:</string>
+    <string name="game_name">Loading…</string>
+    <string name="type">Type:</string>
+    <string name="game_type">Loading…</string>
+    <string name="nb_players">Nb players:</string>
+    <string name="game_nb">Loading…</string>
+    <string name="year">Year:</string>
+    <string name="game_year">Loading…</string>
+    <string name="description">Loading…</string>
+
+    <string name="button_text">Do you want to know more ?</string>
+    <string name="game_image_des">Game image</string>
+    <string name="enter_your_nickname">Enter your player name</string>
+    <string name="str_lives">11</string>
+    <string name="ok">OK</string>
+    <string name="enter_your_letter">enter your letter</string>
+    <string name="back_to_the_menu">Back to \nthe Menu</string>
+    <string name="win_msg">Congratulations, you won!</string>
+    <string name="loose_msg">You lose, try again!</string>
+    <string name="draw_msg">Draw! Try again and win!</string>
+    <string name="empty_word">_ _ _ _ _ _ _ _</string>
+    <string name="sliding_puzzle_image">Sliding puzzle image</string>
+    <string name="icon_game_playable">Icon game playable</string>
+    <string name="game_picture">Game picture</string>
+</resources>
