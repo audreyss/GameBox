@@ -54,7 +54,7 @@ class HangmanActivity : AppCompatActivity(), View.OnClickListener {
                 }
             }
         }
-        service.getWord("a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5", 8, 8).enqueue(wsCallback)
+        service.getWord("wkh7vb61y2zhd18x3o0uofs1nqnf7yq02iqrpv7nr81tqu1er", 8, 8).enqueue(wsCallback)
 
     }
 
